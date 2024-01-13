@@ -8,7 +8,7 @@ import io.kvision.remote.getAllServiceManagers
 import io.kvision.remote.kvisionInit
 import org.koin.core.annotation.ComponentScan
 import org.koin.core.annotation.Module
-import org.koin.ksp.generated.module
+//import org.koin.ksp.generated.module
 
 @Module
 @ComponentScan("net.estemon.studio.openkorridor.project")
@@ -19,5 +19,5 @@ fun Application.main() {
     routing {
         getAllServiceManagers().forEach { applyRoutes(it) }
     }
-    kvisionInit(PingModule().module)
+    //kvisionInit(PingModule().module)
 }
