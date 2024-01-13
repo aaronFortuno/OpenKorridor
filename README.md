@@ -16,8 +16,8 @@ Also, I want to create a platform like Lichess but with this game (to dream is e
   - _Whatever you want_
 
 ## Reality
-I'm studing a programming degree and this could be a nice and engaging real project, but I don't feel confident that
-I can get all this goals, even a working game!
+I'm studing a programming degree and this could be a nice and engaging real project, but I don't feel really confident that
+I can get all this goals, ==even a working game==! Please give me a chance to succeed! :joy:
 
 ## Tecnologies
 Main language is **Kotlin**: **Ktor** at backend and **KVision** at frontend. All logic is kept as much as possible in Kotlin
@@ -32,4 +32,4 @@ Main language is **Kotlin**: **Ktor** at backend and **KVision** at frontend. Al
 
 ### v0.0.1
 - Creating project
-- Working on the board interface, not working yet xD
+- Working on the board interface, not working yet :satisfied:
