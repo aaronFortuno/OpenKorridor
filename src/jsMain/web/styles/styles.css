@@ -1,0 +1,13 @@
+/* styles.css */
+
+.corridor-cell {
+    background-color: lightgray;
+}
+
+.pawn-cell {
+    background-color: darkgray;
+}
+
+.selected-cell {
+    background-color: lightblue;
+}
